@@ -2,6 +2,8 @@
 
 This program was created as part of an assignment for a second year Computer Science paper at Massey University. 
 
+This assignment was completed 8 August 2022.
+
 ## Synopsis
 
 Write a Haskell function that takes a date and an offset as parameters and returns the date
